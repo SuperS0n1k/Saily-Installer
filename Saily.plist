@@ -12,7 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>https://github-releases.githubusercontent.com/280041061/f9d3d75b-67c7-41e7-9392-335d6c3c5d79?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T143550Z&X-Amz-Expires=300&X-Amz-Signature=9d1b64593f466fcfe566287ab74fb04e42f37cca8b993b59319ec0d519ad7d1f&X-Amz-SignedHeaders=host&actor_id=69720319&key_id=0&repo_id=280041061&response-content-disposition=attachment%3B%20filename%3Dchromatic.relsan.1635255185.ipa&response-content-type=application%2Foctet-stream</string>
+     <string>https://raw.githubusercontent.com/SuperS0n1k/Saily-Installer/main/chromatic.relsan.1635255185.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
