@@ -19,7 +19,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>https://raw.githubusercontent.com/SailyTeam/Saily/main-2.0/Resources/icon.png</string>
+     <string>https://raw.githubusercontent.com/SuperS0n1k/Saily-Installer/main/bcd2a838-fde8-400f-817e-ed5b6850dfdd.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -27,19 +27,19 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>https://raw.githubusercontent.com/SailyTeam/Saily/main-2.0/Resources/icon.png</string>
+     <string>https://raw.githubusercontent.com/SuperS0n1k/Saily-Installer/main/bcd2a838-fde8-400f-817e-ed5b6850dfdd.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <string>com.SailyTeam.Saily</string>
+    <string>com.aapl.UTM</string>
     <key>bundle-version</key>
     <string>1.0.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <string>Saily</string>
+    <string>UTM</string>
    </dict>
   </dict>
  </array>
